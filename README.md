@@ -1,8 +1,8 @@
 # scotchangular
 Angular2 session with chris of Scotch.io
 
-#Installation Process.
+<h3>#Installation Process.</h3>
 npm install
 
-#Launch Browser
+<h3>#Launch Browser</h3>
 npm start
